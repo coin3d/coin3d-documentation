@@ -1,4 +1,4 @@
-# coin3d-documentation
+# mle-coin3d-documentation
 
 The documentation captured in this repository is specifically for Coin3D 3.1.3 and any modifications made for the Magic Lantern projects.
 
